@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-audio-engine-nextjs",
+  "capabilityKey": "liberusoftware/music-audio-engine",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-music-audio-engine-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/music/nextjs/audio-engine.md",
+  "presentationPlan": "projects/music/nextjs/audio-engine.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
